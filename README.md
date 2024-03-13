@@ -51,14 +51,10 @@ The Iris Dataset contains four features (length and width of sepals and petals) 
 Therefore, KNN has the highest accuracy with 97% and then SVM with 94% accuracy. We have just implemented some of the common Machine Learning. Since the dataset is small with very few features.
 
 ## Connect with me! 🌐
-Known on internet as **Tanushree Shetty**
-
-
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/tanushree-b-s-9153951b1/)   [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/Tanu-Shree-31)   [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" title="Telegram"/>](https://web.telegram.org/z/)   [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://www.instagram.com/lltanu.shettyll/)
 
 ## Email Me :e-mail:
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:bstanushree@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:madhankumar26291@gmail.com)
 
 
 PS: Please do not forget to drop a star if you like it !!
